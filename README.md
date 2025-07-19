@@ -1,1 +1,1 @@
-https://blog-app-deploy-mr9dyerem-vyshalis-projects-850c9944.vercel.app
+https://blog-app-deploy-1-38vjlyrvx-vyshalis-projects-850c9944.vercel.app
